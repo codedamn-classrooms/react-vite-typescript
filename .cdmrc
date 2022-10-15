@@ -2,3 +2,5 @@ tabs: ["src/App.tsx", "src/main.tsx"]
 terminal-one: |
   yarn install 
   yarn dev
+playground-layout: terminal-editor-browser
+playground-image: html
