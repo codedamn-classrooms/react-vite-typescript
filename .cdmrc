@@ -2,5 +2,5 @@ tabs: ["src/App.tsx", "src/main.tsx"]
 terminal-one: |
   yarn install 
   yarn dev
-baseImage: next11
+baseImage: html
 defaultView: terminal-editor-browser
